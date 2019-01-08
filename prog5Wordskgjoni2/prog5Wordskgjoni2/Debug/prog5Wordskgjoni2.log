@@ -1,0 +1,39 @@
+﻿  prog5Wordskgjoni2.cpp
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(61): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(92): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(113): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(418): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(433): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(435): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(436): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(445): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(447): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(448): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(457): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(459): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(460): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(471): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\kris\documents\visual studio 2015\projects\prog5wordskgjoni2\prog5wordskgjoni2\prog5wordskgjoni2.cpp(472): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  prog5Wordskgjoni2.vcxproj -> C:\Users\Kris\documents\visual studio 2015\Projects\prog5Wordskgjoni2\Debug\prog5Wordskgjoni2.exe
+  prog5Wordskgjoni2.vcxproj -> C:\Users\Kris\documents\visual studio 2015\Projects\prog5Wordskgjoni2\Debug\prog5Wordskgjoni2.pdb (Full PDB)
